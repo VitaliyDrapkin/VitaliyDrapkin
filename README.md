@@ -1,1 +1,1 @@
-![test](https://cdn1.savepice.ru/uploads/2021/2/25/230261d14f16dc290f3537f2dbc288e8-full.jpg)
+![test](https://cdn1.savepice.ru/uploads/2021/2/25/4c83221a979b9f0b13dcedc2fef2948e-full.jpg)
