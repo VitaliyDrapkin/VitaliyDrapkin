@@ -5,7 +5,10 @@
 ## About me
 
 I'm a Full Stack Web Developer from Israel. <br>
-From 2016 to 2020, I was self-employed and engaged in online advertising. <br> I helped create landing pages and find clients for Israeli and International companies. I have worked with WeSell, ClickOn and AdCombo companies and with private clients. In 2020, I decided I decided to switch to a web developer and studied at John Bryce college full stack developer.
+From 2016 to 2020, I was self-employed and engaged in online advertising. <br> I helped create landing pages and find clients for Israeli and International companies. I have worked with [AdCombo](https://adcombo.com/), [WeSell](http://www.wesell.co.il/site/), [ClickOn](https://www.clickon.co.il/) companies and with private clients. In 2020, I decided to switch to a web developer and studied at John Bryce college full stack developer.
+
+I’m looking for a job as a Fullstack web developer.
+I’m very motivated and open for new things and hard working.
 
 You can find me at [linkedIn](https://www.linkedin.com/in/vitaliy-drapkin-3234b0207/) or write me an email drapkinvitaliy@gmail.com
 
