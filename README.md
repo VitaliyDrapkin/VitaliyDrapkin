@@ -10,7 +10,7 @@ From 2016 to 2020, I was self-employed and engaged in online advertising. <br> I
 
 I work hard, I care about writing clean code and genuinely love to learn. I'm currently looking for the right opportunity to work in an environment that will help me progress into a Full Stack Web Developer role.
 
-You can find me at [linkedIn](https://www.linkedin.com/in/vitaliy-drapkin-3234b0207/) or write me an email drapkinvitaliy@gmail.com
+You can find me at [LinkedIn](https://www.linkedin.com/in/vitaliy-drapkin-3234b0207/) or write me an email drapkinvitaliy@gmail.com
 
 ## Skills & endorsements
 
